@@ -1,6 +1,6 @@
-# Timuçin Utkan
+# Kazım Timuçin Utkan
 
-**Ph.D. Student in Artificial Intelligence** at Istanbul Technical University
+**Ph.D. Student in Industrial Engineering** at Istanbul Technical University
 
 Researching LLM Agents, Autonomous Systems, and AI Reasoning.
 
