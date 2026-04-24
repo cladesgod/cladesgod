@@ -4,10 +4,7 @@
 
 Building LLM agents, multi-agent systems, and AI products for education, healthcare, telecom, and enterprise automation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timu%C3%A7in-utkan-602504167/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=0vys75EAAAAJ&hl=tr)
-[![tchain.ai](https://img.shields.io/badge/tchain.ai-000000?style=flat&logo=google-chrome&logoColor=white)](http://tchain.ai)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:timucinutkan@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/timu%C3%A7in-utkan-602504167/) · [Google Scholar](https://scholar.google.com/citations?user=0vys75EAAAAJ&hl=tr) · [tchain.ai](http://tchain.ai) · [Email](mailto:timucinutkan@gmail.com)
 
 ---
 
@@ -106,16 +103,10 @@ Production AI systems developed during AI R&D leadership work at MLPCare.
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat&logo=graphql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- **Languages & Core:** Python, SQL
+- **LLM / Agent Systems:** LangChain, LangGraph, LangSmith, AutoGen, OpenAI API
+- **ML / Deep Learning:** PyTorch, TensorFlow, Scikit-Learn, XGBoost, LightGBM, CatBoost
+- **Backend & Deployment:** FastAPI, Docker
 
 ---
 
