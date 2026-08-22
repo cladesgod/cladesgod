@@ -2,109 +2,62 @@
 
 **AI Research Engineer | Ph.D. Researcher in Industrial Engineering**
 
-I research and build autonomous LLM agents, multi-agent systems, RAG pipelines, evaluation workflows, and production AI architectures.
+I work on autonomous LLM agents, multi-agent systems, RAG, and the less glamorous parts of production AI: evaluation, failure handling, observability, and deployment.
 
 [LinkedIn](https://www.linkedin.com/in/timu%C3%A7in-utkan-602504167/) · [Google Scholar](https://scholar.google.com/citations?user=0vys75EAAAAJ&hl=en)
 
----
+## About me
 
-## About
+I am pursuing a Ph.D. in Industrial Engineering at **Istanbul Technical University**. My research asks how much autonomy an LLM agent should have, how we can measure it, and what happens when several agents need to coordinate rather than solve a task alone.
 
-My research focuses on the **autonomy of Large Language Model agents**, particularly agent evaluation, automated personalized feedback, SQL education, and agentic assessment systems.
+Most of my applied work sits somewhere between research and engineering. I build agent workflows, retrieval systems, evaluation pipelines, and ML services, then spend a fair amount of time finding out where they break.
 
-I am pursuing a Ph.D. in Industrial Engineering at **Istanbul Technical University**. My work spans applied AI architecture, multi-agent orchestration, retrieval-augmented generation, machine learning pipelines, and LLM-driven product development.
+## What I am working on
 
----
-
-## Current Focus
-
-- Autonomous LLM agents and agent evaluation
-- Multi-agent orchestration and coordination
-- Agent memory, tool use, planning, and reasoning
-- RAG architectures and knowledge-grounded generation
+- Evaluating autonomy, planning, tool use, and memory in LLM agents
+- Coordination and failure recovery in multi-agent systems
 - Automated assessment and personalized feedback
-- Production AI systems and evaluation workflows
+- RAG systems that remain traceable to their sources
 
----
-
-## Selected Projects
+## Selected work
 
 ### APA 7 Citation Helper
-Specialized GPT agent for automated academic citation formatting.
 
-- 100K+ users
-- 4.3/5.0 satisfaction rating on the GPT Store
-- Focus: academic writing automation, structured citation generation, and user-facing AI utility
+A GPT-based tool for academic citation formatting. It has served more than 100,000 users and has a 4.3/5.0 rating on the GPT Store. The project taught me a great deal about building a narrow AI tool for people who care more about getting a correct citation than about the model behind it.
 
-### Automated ECTS Transfer System
-Agentic framework for matching cross-university curricula using semantic similarity and LLM-assisted reasoning.
+### Automated ECTS transfer evaluation
 
-- Built with LangChain and LangGraph
-- Designed for curriculum alignment and transfer-credit decision support
-- Joint research work with Başar Öztayşi
+A LangGraph system that compares curricula across universities and supports transfer-credit decisions. It combines semantic retrieval with LLM reasoning rather than treating course matching as a single similarity score. This is joint research with Başar Öztayşi.
 
-### AI-Powered Exam Grading Pipeline
-Automated assessment workflow for consistent grading and feedback generation.
+### AI-assisted exam grading
 
-- Uses LangGraph for orchestration and evaluation workflows
-- Focuses on SQL education, deterministic grading, and personalized feedback
-- Related to Ph.D. research on LLM agents in educational systems
+An assessment pipeline for SQL education, built around deterministic checks, structured LLM feedback, and repeatable evaluation. It is also part of my Ph.D. work on personalized feedback from autonomous agents.
 
-### Enterprise LLM Data Correction Pipeline
-LLM-driven preprocessing and correction pipeline developed for pre-legal workflows.
+### Enterprise data correction
 
-- Automates complex administrative data correction tasks
-- Designed as a scalable, service-oriented workflow
-- Combines ML pipelines with LLM-based correction and validation
+A service-oriented pipeline developed for pre-legal workflows. It combines conventional data processing with LLM-based correction and validation, with explicit checks between stages instead of relying on one large prompt.
 
-### Healthcare AI Translation and Prediction Systems
-Production AI systems developed during AI R&D leadership work in healthcare.
+### Healthcare AI systems
 
-- RAG-based medical translation pipeline with human-in-the-loop feedback
-- Docker and FastAPI deployment
-- Ensemble learning for disease prediction and LSTM-based forecasting for hospital operations
+Past work includes a RAG-based medical translation workflow with human review, ML models for disease prediction, and LSTM forecasting for hospital operations. These systems were deployed with FastAPI and Docker.
 
----
+## Research interests
 
-## Research Interests
+Autonomous agents, multi-agent coordination, agent evaluation, retrieval-augmented generation, AI planning, automated feedback, and applied machine learning.
 
-- Large Language Model agents and autonomy
-- Multi-agent orchestration systems
-- RAG architectures and tool-augmented LLMs
-- AI planning, reasoning, and decision-making
-- Automated feedback and grading systems
-- Applied ML systems for enterprise workflows
-
----
-
-## Selected Publications
+## Selected publications
 
 - **Utkan, K. T.**, & Öztayşi, B. (2025). *Large Language Models for Automated Personalized Feedback in SQL Education.* INFUS.
 - **Utkan, K. T.**, & Özdemir, S. (2024). *GPT-based Audience Attention and Emotion Analysis.* CRC Press.
 - Ünal, C., ..., **Utkan, K. T.**, et al. (2024). *Ex Machine, Next Machine, and Still Biased Machine.* CRC Press.
 
----
-
-## Selected Talks and Workshops
+## Selected talks
 
 - *Can Artificial Intelligence Learn Free Will?* — Erzincan Binali Yıldırım University
 - *AI Applications in Migration Studies* — UNESCO MOST School & Istinye University
 - *Can Artificial Intelligence Fall in Love?* — Uludağ University
 - *Next-Generation Artificial Intelligence in Games* — Gedik University
-- *Can Artificial Intelligence Replace Humans?* — Atatürk University
-- *A Mirror to Humanity: Artificial Intelligence* — Trakya University
-- *New Borders of Humanity* — Istinye University
 
----
+## Tools I use
 
-## Technical Focus
-
-- **Languages and Core:** Python, SQL
-- **LLM and Agent Systems:** LangChain, LangGraph, LangSmith, Langfuse, AutoGen
-- **Data and Retrieval:** Neo4j, Qdrant, RAG
-- **ML and Deep Learning:** PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM, CatBoost
-- **Backend and Deployment:** FastAPI, Docker
-
----
-
-<sub>Building AI systems that reason, plan, evaluate, and ship.</sub>
+Python, SQL, LangChain, LangGraph, LangSmith, Langfuse, AutoGen, Neo4j, Qdrant, PyTorch, TensorFlow, scikit-learn, FastAPI, and Docker.
