@@ -47,12 +47,14 @@ Autonomous agents, multi-agent coordination, agent evaluation, retrieval-augment
 
 ## Selected publications
 
+- **Utkan, K. T.**, & Öztayşi, B. (2026). *Adaptive Course Equivalence with Reflective Prompt Evolution: A Self-Improving Multi-Agent Harness.* Accepted for publication at INFUS 2026; in press.
 - **Utkan, K. T.**, & Öztayşi, B. (2025). *Large Language Models for Automated Personalized Feedback in SQL Education.* INFUS.
 - **Utkan, K. T.**, & Özdemir, S. (2024). *GPT-based Audience Attention and Emotion Analysis.* CRC Press.
 - Ünal, C., ..., **Utkan, K. T.**, et al. (2024). *Ex Machine, Next Machine, and Still Biased Machine.* CRC Press.
 
 ## Selected talks
 
+- *Enterprise LLMs and Prompt Engineering Workshop* — Otokoç Automotive
 - *Can Artificial Intelligence Learn Free Will?* — Erzincan Binali Yıldırım University
 - *AI Applications in Migration Studies* — UNESCO MOST School & Istinye University
 - *Can Artificial Intelligence Fall in Love?* — Uludağ University
