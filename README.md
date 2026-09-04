@@ -1,4 +1,4 @@
-# Kâzım Timuçin Utkan
+# Kazım Timuçin Utkan
 
 **AI Research Engineer | Ph.D. Researcher in Industrial Engineering**
 
